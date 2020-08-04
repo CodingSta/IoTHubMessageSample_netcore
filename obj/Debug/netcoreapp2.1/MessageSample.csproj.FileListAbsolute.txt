@@ -1,0 +1,10 @@
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/bin/Debug/netcoreapp2.1/MessageSample.deps.json
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/bin/Debug/netcoreapp2.1/MessageSample.runtimeconfig.json
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/bin/Debug/netcoreapp2.1/MessageSample.runtimeconfig.dev.json
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/bin/Debug/netcoreapp2.1/MessageSample.dll
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/bin/Debug/netcoreapp2.1/MessageSample.pdb
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/obj/Debug/netcoreapp2.1/MessageSample.csprojAssemblyReference.cache
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/obj/Debug/netcoreapp2.1/MessageSample.AssemblyInfoInputs.cache
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/obj/Debug/netcoreapp2.1/MessageSample.AssemblyInfo.cs
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/obj/Debug/netcoreapp2.1/MessageSample.dll
+/Users/codingstar/Documents/workspaces_VSCode/azure-iot-samples-csharp-master/iot-hub/Samples/device/MessageSample/obj/Debug/netcoreapp2.1/MessageSample.pdb
